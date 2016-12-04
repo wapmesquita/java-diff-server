@@ -4,14 +4,14 @@
 	<groupId>io.github.wapmesquita</groupId>
 	<artifactId>java-diff-server-web</artifactId>
 	<packaging>war</packaging>
-	<version>0.2</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>Java Diff Server Web</name>
 	<url>http://maven.apache.org</url>
 
 	<parent>
 		<groupId>io.github.wapmesquita</groupId>
 		<artifactId>java-diff-server-parent</artifactId>
-		<version>0.2</version>
+		<version>1.0-SNAPSHOT</version>
 		<relativePath>../</relativePath>
 	</parent>
 
