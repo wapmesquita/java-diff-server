@@ -17,7 +17,7 @@ Web application to compare 2 text files and respond the differences between them
 ### Compiling
 To compile the application you need to execute the following maven command
 
-    mvn clean package
+    mvn clean install
 
 ### Run
 To start the application you need to execute the following maven command
